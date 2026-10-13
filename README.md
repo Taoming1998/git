@@ -15,3 +15,4 @@
 4.Push到GitHub
 
 ##滞后于GitHub上的一条修改内容
+##在GitHub上的修改、提交是否有效呢？
